@@ -34,8 +34,10 @@ Srihari3601/Srihari3601 is a ✨ special ✨ repository because its `README.md` 
 You can click the Preview link to take a look at your changes.
 --->
 
+### Socials
+
 <p align="center">
-	<a href="https://github.com/Srihari3601"><img src="https://img.icons8.com/bubbles/50/000000/github.png" alt="GitHub"/></a>
-	<a href="https://www.linkedin.com/in/sriharigc/"><img src="https://img.icons8.com/bubbles/50/000000/linkedin.png" alt="LinkedIn"/></a>
-	<a href="https://www.instagram.com/srihari_5121/"><img src="https://img.icons8.com/bubbles/50/000000/instagram.png" alt="Instagram"/></a>
+	<a href="https://github.com/Srihari3601"><img src="https://github.com/devicons/devicon/blob/master/icons/github/github-original.svg" alt="GitHub"/></a>
+	<a href="https://www.linkedin.com/in/sriharigc/"><img src="https://github.com/devicons/devicon/blob/master/icons/linkedin/linkedin-original.svg" alt="LinkedIn"/></a>
+	<a href="https://www.instagram.com/srihari_5121/"><img src="https://github.com/dheereshagrwal/colored-icons/blob/master/public/icons/instagram/instagram.svg" alt="Instagram"/></a>
 </p>
