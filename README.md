@@ -37,7 +37,7 @@ You can click the Preview link to take a look at your changes.
 ### Socials
 
 <p align="center">
-	<a href="https://github.com/Srihari3601"><img src="https://github.com/devicons/devicon/blob/master/icons/github/github-original.svg" alt="GitHub"/></a>
-	<a href="https://www.linkedin.com/in/sriharigc/"><img src="https://github.com/devicons/devicon/blob/master/icons/linkedin/linkedin-original.svg" alt="LinkedIn"/></a>
-	<a href="https://www.instagram.com/srihari_5121/"><img src="https://github.com/dheereshagrwal/colored-icons/blob/master/public/icons/instagram/instagram.svg" alt="Instagram"/></a>
+	<a href="https://github.com/Srihari3601"><img src="https://github.com/devicons/devicon/blob/master/icons/github/github-original.svg" alt="GitHub" width="40" height="40"/></a>
+	<a href="https://www.linkedin.com/in/sriharigc/"><img src="https://github.com/devicons/devicon/blob/master/icons/linkedin/linkedin-original.svg" alt="LinkedIn" width="40" height="40"/></a>
+	<a href="https://www.instagram.com/srihari_5121/"><img src="https://github.com/dheereshagrwal/colored-icons/blob/master/public/icons/instagram/instagram.svg" alt="Instagram" width="40" height="40"/></a>
 </p>
