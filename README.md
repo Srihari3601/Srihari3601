@@ -26,7 +26,10 @@
   <img src="https://github.com/devicons/devicon/blob/master/icons/git/git-original-wordmark.svg" title="Git" **alt="Git" width="40" height="40"/>
   <img src="https://github.com/devicons/devicon/blob/master/icons/backbonejs/backbonejs-original-wordmark.svg" title="Backbone.js" **alt="Backbone.js" width="40" height="40"/>
   <img src="https://github.com/devicons/devicon/blob/master/icons/bootstrap/bootstrap-original.svg" title="Bootstrap" **alt="Bootstrap" width="40" height="40"/>
-  <img src="https://github.com/devicons/devicon/blob/master/icons/jquery/jquery-original-wordmark.svg" title="jQuery" **alt="jQuery" width="40" height="40"/>	
+  <img src="https://github.com/devicons/devicon/blob/master/icons/jquery/jquery-original-wordmark.svg" title="jQuery" **alt="jQuery" width="40" height="40"/>
+  <img src="https://github.com/devicons/devicon/blob/master/icons/tailwindcss/tailwindcss-plain.svg" title="Tailwind CSS" **alt="Tailwind CSS" width="40" height="40"/>
+  <img src="https://github.com/devicons/devicon/blob/master/icons/illustrator/illustrator-line.svg" title="Adobe Illustrator" **alt="Adobe Illustrator" width="40" height="40"/>
+  <img src="https://github.com/devicons/devicon/blob/master/icons/illustrator/illustrator-line.svg" title="Figma" **alt="Figma" width="40" height="40"/>
 	
 </div>
 <!---
